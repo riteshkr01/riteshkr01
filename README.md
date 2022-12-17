@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ritesh Kumar, Exploring the beauty of world via Code.
 - 👀 I’m interested in Full Stack Development and Android Development
-- 🌱 I’m currently Exploring MERN Stack, React Native.
+- 🌱 I’m Exploring MERN Stack, React Native.
 - 📫 How to reach me :-riteshkumar4035@gmail.com
 
 <!---
