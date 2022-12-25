@@ -6,8 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshkr01&label=Profile%20views&color=0e75b6&style=flat" alt="riteshkr01" /> </p>
 
--     Loves ✈️ and 👨‍💻.#👨‍💻 #SelfTaught Developer.
-
+-     Loves ✈️ and 👨‍💻.#👨‍💻 
+-     #SelfTaught Developer.
 - 🌱 I’m currently learning **MERN & SPRINGBOOT**
 
 - 👨‍💻 All of my projects are available at [https://bit.ly/3hQXFcI](https://bit.ly/3hQXFcI)
